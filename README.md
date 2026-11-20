@@ -1,5 +1,7 @@
 # Emergent Technologies: MCP server and agent interfaces
 
+[![mcptry](https://mcptry.com/badge/ai.emergenttechnologies/emergent)](https://mcptry.com/servers/ai.emergenttechnologies/emergent) [![mcptry](https://mcptry.com/badge/is.emergent/emergent)](https://mcptry.com/servers/is.emergent/emergent)
+
 Emergent Technologies, Inc. runs two programs: **Emergent Consulting** (AI and automation consulting) and
 **Emergent Data Licensing** (licensing a company's institutional knowledge to AI labs). Its own AI agent answers
 assistants and other agents directly, from Emergent's published fact book, with sources. Nothing here needs a key or
