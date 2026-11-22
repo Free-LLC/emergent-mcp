@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "emergent": {
+      "type": "http",
+      "url": "https://emergenttechnologies.ai/mcp"
+    }
+  }
+}
