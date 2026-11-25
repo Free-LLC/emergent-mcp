@@ -12,7 +12,7 @@ entries published to the official MCP Registry. The server itself runs on Emerge
 
 ## Endpoints
 
-| What | emergenttechnologies.ai | emergent.is |
+| What | emergenttechnologies.ai (Emergent Consulting & Data Licensing) | emergent.is (Emergent Technologies, the company) |
 |---|---|---|
 | MCP server (Streamable HTTP, read-only tools) | https://emergenttechnologies.ai/mcp | https://emergent.is/mcp |
 | MCP server card | https://emergenttechnologies.ai/mcp/server-card | https://emergent.is/mcp/server-card |
